@@ -22,12 +22,12 @@
 #
 
 # Inherit some common Lineage stuff.
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+$(call inherit-product, vendor/rr/config/common_full_phone.mk)
 
 # Inherit from jasmine device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
-PRODUCT_NAME := lineage_jasmine
+PRODUCT_NAME := rr_jasmine
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := jasmine
 PRODUCT_MANUFACTURER := Xiaomi

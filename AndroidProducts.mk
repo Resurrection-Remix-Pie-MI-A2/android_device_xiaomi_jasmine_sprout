@@ -21,6 +21,6 @@
 # definition file).
 #
 
-# inherit MI A2 HAVOC device config
+# inherit MI A2 RR device config
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_jasmine.mk
+    $(LOCAL_DIR)/rr_jasmine.mk
