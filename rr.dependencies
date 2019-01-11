@@ -3,7 +3,7 @@
     "remote": "github",
     "repository": "xiaomi-sdm660/android_kernel_xiaomi_sdm660",
     "target_path": "kernel/xiaomi/jasmine",
-    "branch": "havoc"
+    "branch": "master"
   },
   {
     "remote": "github",
@@ -20,6 +20,6 @@
     "remote": "github",
     "repository": "xiaomi-sdm660/android_vendor_xiaomi_jasmine",
     "target_path": "vendor/xiaomi/jasmine",
-    "branch": "los-16.0"
+    "branch": "master"
   }
 ]
