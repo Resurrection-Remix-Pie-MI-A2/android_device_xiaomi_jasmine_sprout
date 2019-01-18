@@ -15,12 +15,12 @@
     "remote": "github",
     "repository": "xiaomi-sdm660/android_device_xiaomi_sdm660-common",
     "target_path": "device/xiaomi/sdm660-common",
-    "branch": "los-16.0"
+    "branch": "los-16.0-new"
   },
     {
     "remote": "github",
     "repository": "xiaomi-sdm660/android_vendor_xiaomi_jasmine",
     "target_path": "vendor/xiaomi/jasmine",
-    "branch": "master"
+    "branch": "los-16.0-new"
   }
 ]
