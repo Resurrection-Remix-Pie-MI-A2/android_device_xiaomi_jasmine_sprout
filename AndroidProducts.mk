@@ -23,4 +23,4 @@
 
 # inherit MI A2 RR device config
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/rr_jasmine.mk
+    $(LOCAL_DIR)/rr_jasmine_sprout.mk
