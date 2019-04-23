@@ -1,19 +1,21 @@
+
+
 [
   {
     "remote":      "github",
-    "repository":  "AkshayKakatkar/android_device_xiaomi_sdm660-common",
+    "repository":  "shouko-komi/android_device_xiaomi_sdm660-common",
     "target_path": "device/xiaomi/sdm660-common",
-    "branch":      "havoc"
+    "branch":      "pie"
   },
   {
     "remote":      "github",
-    "repository":  "AkshayKakatkar/android_kernel_xiaomi_sdm660",
+    "repository":  "shouko-komi/android_kernel_xiaomi_sdm660",
     "target_path": "kernel/xiaomi/sdm660",
     "branch":      "master"
   },
   {
     "remote":      "github",
-    "repository":  "AkshayKakatkar/android_vendor_xiaomi_jasmine_sprout",
+    "repository":  "shouko-komi/android_vendor_xiaomi_jasmine_sprout",
     "target_path": "vendor/xiaomi/jasmine_sprout",
     "branch":      "master"
   },
