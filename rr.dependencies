@@ -11,7 +11,7 @@
     "remote":      "github",
     "repository":  "shouko-komi/android_kernel_xiaomi_sdm660",
     "target_path": "kernel/xiaomi/sdm660",
-    "branch":      "master"
+    "branch":      "eas"
   },
   {
     "remote":      "github",
