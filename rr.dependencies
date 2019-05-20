@@ -13,7 +13,7 @@
   },
   {
     "remote":      "github",
-    "repository":  "shouko-komi/android_vendor_xiaomi_jasmine_sprout",
+    "repository":  "xiaomi-sdm660/android_vendor_xiaomi_jasmine_sprout",
     "target_path": "vendor/xiaomi/jasmine_sprout",
     "branch":      "master"
   },
