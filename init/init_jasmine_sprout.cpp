@@ -46,12 +46,6 @@ using android::init::property_set;
 using android::base::ReadFileToString;
 using android::base::Trim;
 
-char const *heapstartsize;
-char const *heapgrowthlimit;
-char const *heapsize;
-char const *heapminfree;
-char const *heapmaxfree;
-
 void property_override(char const prop[], char const value[])
 {
     prop_info *pi;
