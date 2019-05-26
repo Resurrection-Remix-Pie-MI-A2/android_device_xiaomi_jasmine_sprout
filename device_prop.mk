@@ -116,8 +116,3 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PROPERTY_OVERRIDES += \
 	persist.vendor.iwlan.enable=true \
 	persist.vendor.radio.data_con_rprt=1
-
-#DPI
-PRODUCT_PROPERTY_OVERRIDES += \
-	vendor.display.lcd_density=480	
-
